@@ -9,7 +9,7 @@ choose any of the following.
   Describe the tradeoffs involved, especially those which change significantly
   between CPU/GPU and FPGAs. Many of the techniques described in [EE364B Lectures](http://web.stanford.edu/class/ee364b/lectures.html) or CME302 would be appropriate for exploration.
   The primary motivation for these is for machine learning, so a motivation for the particular technique is necessary,
-  along with a demonstration of it being applied.
+  along with a demonstration of it being applied (for the final report).
   3. Low-precision computing / cheaper approximations. This might involve
   replacing training-time SELUs with RELUs for inference, or sigmoids with
   piecewise linear functions. Existing nets could be modified to use FixedPoint
