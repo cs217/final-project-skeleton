@@ -23,5 +23,5 @@ As much of this work is squarely in the research domain, your grade will not be
 tied to how well you achieved these goals, but rather the degree to which your
 team explored and documented the area.
 
-If attempting option 4, please also include a segment on the motivation for the
-work, as well as a brief description of prior work.
+If attempting option 2 or 4, please also include a segment on the motivation for the
+work, as well as a summary of prior work.
